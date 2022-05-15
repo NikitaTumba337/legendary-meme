@@ -1,0 +1,109 @@
+body {
+    background-color: #141414;
+}
+h1{
+    color: #ABACAF;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+.btn {
+    text-decoration-color: #42dca3;
+    color: #42dca3;
+    padding: 4px;
+    background-color: #141414;
+    border-color: #42dca3;
+    height: 47px;
+    width: 150px;
+    font-size: 20px; /*изменение размера текста*/
+    position: absolute;
+    top: 1000px; /*вертикаль положения*/
+    left: 600px; /*горизонталь положения*/
+}
+    .btn:hover {
+        transition: all 0.4s;
+        background: #42dca3;
+        border-color: #141414;
+        text-decoration-color: #141414;
+        color: #141414;
+    }
+
+.btn1 {
+    text-decoration-color: #ABACAF;
+    color: #ABACAF;
+    padding: 4px;
+    background-color: #141414;
+    border-color: #ABACAF;
+    height: 47px;
+    width: 150px;
+    font-size: 20px; /*изменение размера текста*/
+    position: absolute;
+    top: 20px; /*вертикаль положения*/
+    left: 600px; /*горизонталь положения*/
+}
+    .btn1:hover {
+        transition: all 0.4s;
+        text-decoration-color: #141414;
+        background-color: #ABACAF;
+        border-color: #141414;
+        color: #141414;
+    }
+
+.btn2 {
+    text-decoration-color: #ABACAF;
+    color: #ABACAF;
+    padding: 4px;
+    background-color: #141414;
+    border-color: #ABACAF;
+    height: 47px;
+    width: 170px;
+    font-size: 20px; /*изменение размера текста*/
+    position: absolute;
+    top: 20px; /*вертикаль положения*/
+    left: 400px; /*горизонталь положения*/
+}
+    .btn2:hover {
+        transition: all 0.4s;
+        text-decoration-color: #141414;
+        background-color: #ABACAF;
+        border-color: #141414;
+        color: #141414;
+    }
+
+
+h3, h2 {
+    color: white;
+    text-align: center;
+    margin-block: 0px;
+}
+.KartImg {
+    position: absolute;
+    left: 100px;
+}
+.ParkurImg {
+    position: absolute;
+    left: 712px;
+}
+.Text0 {
+    color: white;
+    text-align: center;
+    margin-block: 0px;
+    position: relative;
+    top: 530px;
+}
+.OneBot {
+    color: #ABACAF;
+    text-align: center;
+    margin-block: 0px;
+    position: relative;
+    top: 940px;
+    left: 45%;
+}
+.Korarar {
+    color: #ABACAF;
+    margin-block: 0px;
+    position: relative;
+    top: 955px;
+    left: 35%;
+}
